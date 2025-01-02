@@ -1,6 +1,6 @@
 # **ALURA ONE - LITERATURA** 📚
 
-Este proyecto fue desarrollado como parte del **Challenge 2 de Alura**, con el objetivo de integrar y gestionar datos de libros utilizando la API **GutenDex**. 🛠️ Utiliza tecnologías modernas para manejar información de autores, libros y mucho más. 📖✨  
+Este proyecto fue desarrollado con el objetivo de integrar y gestionar datos de libros utilizando la API **GutenDex**. 🛠️ Utiliza tecnologías modernas para manejar información de autores, libros y mucho más. 📖✨  
 
 ![image](https://github.com/user-attachments/assets/82590250-5801-46b3-bf86-eeaabc594f0c)
 
